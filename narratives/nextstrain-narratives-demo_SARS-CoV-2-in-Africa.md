@@ -16,6 +16,8 @@ List with data
 # intro to
 ## Intro to phylo
 Content
+<img src="https://images.immediate.co.uk/production/volatile/sites/23/2021/03/GettyImages-1345278193-0770904.jpg" alt="Otters" width="100%"/>
+
 ## Intro to dynamics
 Content
 
